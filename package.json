@@ -23,7 +23,7 @@
     "react-scripts": "3.4.1",
     "react-scroll": "^1.7.16",
     "react-typed": "^1.2.0",
-    "three": "^0.115.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "start": "react-scripts start",
