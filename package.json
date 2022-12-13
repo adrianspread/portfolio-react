@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
     "axios-react": "^1.1.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "history": "^4.10.1",
     "lint": "^0.7.0",
     "react": "^16.13.1",
